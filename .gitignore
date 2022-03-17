@@ -1,0 +1,12 @@
+*.tgz
+*.pth
+*.tar.gz
+*.pdf
+*.ipynb
+*.gz
+/data
+*.pt
+*.zip
+.vscode
+*.pyc
+*.npy
