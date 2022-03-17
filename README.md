@@ -16,7 +16,13 @@ Pytorch >= 1.6.0
 
 
 ```BibTeX
-@INPROCEEDINGS{9586115,  author={Ye, Nanyang and Mei, Jingbiao and Fang, Zhicheng and Zhang, Yuwen and Zhang, Ziqing and Wu, Huaying and Liang, Xiaoyao},  booktitle={2021 58th ACM/IEEE Design Automation Conference (DAC)},   title={BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Architecture},   year={2021},  volume={},  number={},  pages={487-492},  doi={10.1109/DAC18074.2021.9586115}}
+@INPROCEEDINGS{bayesft2021,  
+author={Ye, Nanyang and Mei, Jingbiao and Fang, Zhicheng and Zhang, Yuwen and Zhang, Ziqing and Wu, Huaying and Liang, Xiaoyao},  
+booktitle={2021 58th ACM/IEEE Design Automation Conference (DAC)},
+title={BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Architecture},
+year={2021},
+pages={487-492},
+doi={10.1109/DAC18074.2021.9586115}}
 ```
 
 
